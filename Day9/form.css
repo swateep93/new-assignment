@@ -1,0 +1,27 @@
+body{
+       background: rgb(200,250,100);
+       width: 400px;
+       width: 30%;
+       padding-left: 10px;
+    }
+form li{
+     list-style: none;
+     margin-bottom: 20px;
+    }
+
+form ul{
+     padding-left: 0;
+      }
+
+label{
+      display: block;
+      cursor: pointer;
+      color: #292929;
+      font-family: sans-serif;
+      padding-bottom: 8px;
+     }
+
+textarea{
+          width: 400px;   
+          height: 200px;
+        }
